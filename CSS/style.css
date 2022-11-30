@@ -24,6 +24,8 @@ main{
 }
 
 .titulo{
+    margin-top: 3%;
+    margin-bottom: 1.5%;
     max-width: 35%;
 }
 
